@@ -27,12 +27,8 @@
 	Have fun and thanks for trying out the mod!
 
 ========== ========== ========== ========== ==========
-  _____ _                 _        
- |_   _| |__   __ _ _ __ | | _____ 
-   | | | '_ \ / _` | '_ \| |/ / __|
-   | | | | | | (_| | | | |   <\__ \
-   |_| |_| |_|\__,_|_| |_|_|\_\___/
-                                   
+
+	THANKYOUS                                   
 
 	Qwestgamp // https://www.cgtrader.com/free-3d-models/military/other/medieval-hammer-fb433dd3-684c-4b3b-aa87-4881b2f5f78b
 	
