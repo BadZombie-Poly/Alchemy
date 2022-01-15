@@ -1,7 +1,7 @@
 	
 ========== ========== ========== ========== ==========
 
-	1. Unzip
+	1. Unzip current STABLE release
 	2. Copy 'Alchemy_v1' folder into '\7 Days To Die\Mods'
 		- If there is no 'Mods' folder create one.
 		
