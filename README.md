@@ -35,12 +35,3 @@
 	Model used for "Rock Hammer"
 	
 ========== ========== ========== ========== ==========
-
-	Ideas for future updates (any help appreciated)
-
-	- wandering potion trader using the screamer model as a base
-
-	- catch zombies to harvest infected flesh. Use special narcotic ammo to get a 'captured zombie' block
-	which can be placed and grows like a crop - model is a radiated zombie in a cage
-
-	- clothing items with buffs
